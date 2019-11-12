@@ -1,0 +1,17 @@
+title: git hub lab
+tagline: A brand new course on Learning Lab
+description: git hub lab learning
+template:
+  repo: git-hub-lab-template
+  name: git-hub-lab
+before:
+  - type: createIssue
+    title: Welcome!
+    body: new-issue.md
+steps:
+  - title: First step
+    description: The first step in your course
+    event: issues.assigned
+    link: '{{ repoUrl }}'
+    actions:
+      - type: closeIssue
