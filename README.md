@@ -6,15 +6,15 @@ _____________
 _______
 ___
 _
-Welcome to GitHub Pages and Jekyll 🎉!
+Welcome to kavindu yasintha silva 🎉!
 
 If you're new to GitHub Pages, or you want to learn how to build and host a GitHub Pages site, you're in the right place. With GitHub Pages, you can host content like documentation, resumes, or any other static content that you’d like.
 
 In this course, you'll create a blog hosted on GitHub Pages and learn how to:
 
 Enable GitHub Pages
-Use Jekyll, a static site generator
-Customize Jekyll sites with a theme and content
+Use sky, a static site generator
+Customize sky sites with a theme and content
 New to GitHub?
 For this course, you'll need to know how to create a branch on GitHub, commit changes using Git, and open a pull request on GitHub. If you need a refresher on the GitHub flow, check out the the Introduction to GitHub course.
 
@@ -29,7 +29,7 @@ Turning on GitHub Pages creates a deployment of your repository. I may take up t
 
 
 Step 2: Customize your homepage
-Great job! Now that GitHub Pages is enabled, you can view your website here: https://kavindyasinthasilva.github.io/github-pages-with-jekyll/
+
 
 You can customize your homepage by adding content to either an index file or the README.md file. GitHub Pages first looks for an index file. If an index file is found, GitHub Pages uses the content in the file to create the homepage. If an index file isn’t found, it uses the README.md to create the homepage.
 
